@@ -1,0 +1,11 @@
+tqdm
+numpy
+pandas
+scipy
+transformers
+torch
+shap
+bs4
+datasets
+transformers[torch]
+accelerate
