@@ -1,9 +1,9 @@
-# MastersThesis
-#### Masters Thesis Smita Bhattacharya(2581485)
+# Masters Thesis:Identifying Skills in Constructed Responses with Explainable NLP Models 
+#### Smita Bhattacharya
 ##### M.Sc. in Data Science and Artificial Intelligence, Saarland University
 
 
-##  Identifying Skills in Constructed Responses with Explainable NLP Models
+##  Tasks:
 
 - Data Analysis folder contains  two jupyter files.
     - AFLEK_Data_Analysis.ipynb contains the details of the descriptive statistics for the AFLEK dataset.
